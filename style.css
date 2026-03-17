@@ -1,0 +1,42 @@
+
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+}
+#main{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(163, 127, 255);
+    display: flex;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+
+}
+#main{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    color: brown;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-left:50px;
+    border-radius: 10%;
+    text-decoration: underline;
+
+
+
+}
+#div1{
+    background-color: brown;
+}
+#div2{
+    background-color: blue;
+}
+#div3{
+    background
+}
